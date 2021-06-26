@@ -99,36 +99,21 @@ let footer = $(`
         <p>"Develop a passion for learning. If you do, you will never cease to grow."</p>
       </div>
       <div class="footer-icons">
-      <a href="#" class="linkedin sub-footer-icon">
+      <a href="https://www.linkedin.com/in/aditya-lohia-ml/" class="linkedin sub-footer-icon">
           <i class="fab fa-linkedin"></i>
         </a>
-        <a href="#" class="git sub-footer-icon">
+        <a href="https://github.com/aditya-dl" class="git sub-footer-icon">
           <i class="fab fa-github"></i>
         </a>
-        <a href="#" class="twitter sub-footer-icon">
+        <a href="https://twitter.com/aditya_lohia" class="twitter sub-footer-icon">
           <i class="fab fa-twitter"></i>
         </a>
-        <a href="#" class="email-icon sub-footer-icon" >
+        <a href="mailto:adityaslohia29@gmail.com" class="email-icon sub-footer-icon" >
         <i id="mail" class="fa fa-envelope" ></i>
         </a>
-        <a href="#" class="kaggle sub-footer-icon" >
+        <a href="" class="kaggle sub-footer-icon" >
         <i class="fab fa-kaggle" id="kaggle-icon" ></i>
         </a> 
-        <!-- <a href="#" class="google-scholar sub-footer-icon">
-        <i class="ai ai-google-scholar-square ai-3x" ></i>
-        </a>
-         <a href="#" class="leetcode sub-footer-icon">
-        <span class="iconify" data-icon="cib:leetcode" data-inline="false"></span>
-        </a>
-        <a href="#" class="codeforces sub-footer-icon">
-        <span class="iconify" data-icon="simple-icons:codeforces" data-inline="false"></span>
-        </a>
-        <a href="#" class="dribbble sub-footer-icon">
-              <i class="fab fa-dribbble"></i>
-            </a>
-            <a href="#" class="instagram sub-footer-icon">
-            <i class="fab fa-instagram"></i>
-          </a>  -->
         </div>
     </div>
     <div class="footer-right">
@@ -148,7 +133,7 @@ let footer = $(`
     </div>
     
     <!-- <div class="tt-copy">
-      <div class="container col-sm-6">
+      <div class="iner col-sm-6">
        <center class="text-animation">Made with <i class="fa fa-heart" style="color: red;"></i></center>
       </div>
     </div> -->
